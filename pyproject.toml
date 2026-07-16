@@ -1,0 +1,11 @@
+[project]
+name = "dmjforge"
+version = "0.1.0"
+description = "Competitive Programming Workspace Manager"
+dependencies = [
+    "textual",
+    "rich"
+]
+
+[project.scripts]
+dmjforge = "dmjforge.main:main"

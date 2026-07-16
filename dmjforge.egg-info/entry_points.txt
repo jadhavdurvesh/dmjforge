@@ -1,0 +1,2 @@
+[console_scripts]
+dmjforge = dmjforge.main:main

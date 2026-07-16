@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: dmjforge
+Version: 0.1.0
+Summary: Competitive Programming Workspace Manager
+License-File: LICENSE
+Requires-Dist: textual
+Requires-Dist: rich
+Dynamic: license-file
