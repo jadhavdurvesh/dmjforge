@@ -1,0 +1,18 @@
+Screen {
+    background: #111111;
+}
+
+ProblemPanel {
+    width: 30%;
+    border: round gold;
+}
+
+OutputPanel {
+    width: 70%;
+    border: round gold;
+}
+
+StatusPanel {
+    height: 5;
+    border: round gold;
+}

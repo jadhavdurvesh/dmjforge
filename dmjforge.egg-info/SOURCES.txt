@@ -2,6 +2,7 @@ LICENSE
 README.md
 pyproject.toml
 dmjforge/__init__.py
+dmjforge/actions.py
 dmjforge/app.py
 dmjforge/main.py
 dmjforge.egg-info/PKG-INFO
@@ -10,3 +11,7 @@ dmjforge.egg-info/dependency_links.txt
 dmjforge.egg-info/entry_points.txt
 dmjforge.egg-info/requires.txt
 dmjforge.egg-info/top_level.txt
+dmjforge/widgets/__init__.py
+dmjforge/widgets/output_panel.py
+dmjforge/widgets/problem_panel.py
+dmjforge/widgets/status_panel.py
